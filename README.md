@@ -5,13 +5,13 @@ Homebrew formulae for N8 Group tools.
 ## Install
 
 ```bash
-brew tap n8group/tap
-brew install gh-scanner
+brew tap n8group-oss/tap
+brew install gh-audit
 ```
 
-## Tools
+## Available Formulae
 
-- **gh-scanner** - GitHub organization discovery and inventory scanner
+- **gh-audit** - GitHub audit, governance, and inventory for organizations
 
 ## About
 
